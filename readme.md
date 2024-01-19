@@ -14,7 +14,7 @@ We now advance a mjx_step with ```ctrl=0```, resulting in ```c1``` and ```v1```.
 
 ## Installation
 
-Instructions on how to install and set up your project.
+Requirements are given via requirements.txt
 
 ## Usage
 

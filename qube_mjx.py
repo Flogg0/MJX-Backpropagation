@@ -1,13 +1,12 @@
 from typing import Tuple
 
 import jax
-import mujoco
 import numpy as np
-from brax.base import Motion
-from brax.base import Transform
-from brax.envs.base import Env
-from brax.envs.base import State
+from brax.base import Motion, Transform
+from brax.envs.base import Env, State
 from jax import numpy as jp
+
+import mujoco
 from mujoco import mjx
 
 # @title MjxEnv
