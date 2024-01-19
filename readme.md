@@ -1,4 +1,4 @@
-# Project Name
+# MJX-Backpropagation Test
 
 This repository is a practical example of an issue regarding backpropagating through a Mujco-mjx physics step.
 The original purpose was to find out whether we are able to backpropagate through an mjx step via a minimal example.
